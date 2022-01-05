@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: visualization-modeling-server
+  profiles:
+    active: dev
